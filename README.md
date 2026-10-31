@@ -70,8 +70,7 @@ python3 test.py --config config/s3dis/s3dis_rsm_transformer.yaml
 For your convenience, you can download the pre-trained models from [here](https://drive.google.com/file/d/1sOgrg9w48iiYe03udaG7KRgl3mOob3zL/view).
 
 ## Data availability
-Evaluation data is available at [here](https://drive.google.com/file/d/15se9HzdY3IPCrI789J58LUbipYaxDWaj/view)
+Evaluation data is available at [here](https://drive.google.com/file/d/15se9HzdY3IPCrI789J58LUbipYaxDWaj/view).
 The complete dataset is available from the corresponding author upon request.
 
-# Citation
-Waiting publish
+
